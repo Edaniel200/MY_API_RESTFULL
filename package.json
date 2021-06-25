@@ -1,0 +1,21 @@
+{
+  "name": "api-restfull",
+  "version": "1.0.0",
+  "description": "Creando API RESTFULL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Edaniel200/MY_API_RESTFULL.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "-M",
+    "main"
+  ],
+  "author": "git push -u origin main",
+  "license": "ISC"
+}
