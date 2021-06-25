@@ -17,5 +17,8 @@
     "main"
   ],
   "author": "git push -u origin main",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
